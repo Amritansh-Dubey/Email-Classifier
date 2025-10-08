@@ -28,5 +28,22 @@ The dataset used is the SMS Spam Collection Dataset from Kaggle, which includes 
 - scikit-learn  
 - NumPy
 
-## Project Structure
+## Sample Output
+Accuracy: 0.9738
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       965
+           1       0.97      0.89      0.93       150
+
+    accuracy                           0.97      1115
+   macro avg       0.97      0.94      0.96      1115
+weighted avg       0.97      0.97      0.97      1115
+
+Message: Congratulations! You've won a free iPhone. Click here to claim now!
+Prediction: Spam
+
+Message: Hey, are we still meeting for lunch tomorrow?
+Prediction: Not Spam
 

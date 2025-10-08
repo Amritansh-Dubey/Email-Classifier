@@ -42,8 +42,10 @@ Classification Report:
 weighted avg       0.97      0.97      0.97      1115
 
 Message: Congratulations! You've won a free iPhone. Click here to claim now!
+
 Prediction: Spam
 
 Message: Hey, are we still meeting for lunch tomorrow?
+
 Prediction: Not Spam
 
